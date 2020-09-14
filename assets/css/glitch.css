@@ -1,0 +1,11 @@
+#defaultCanvas0 { 
+	opacity: .5;
+	filter: grayscale(100%);
+	position: fixed !important;
+	/* border: 15px solid red; */
+	top: 0;
+	left: 0;
+	z-index: 100;
+	transition: 1s ease-in-out;
+	pointer-events: none;
+}
